@@ -24,6 +24,7 @@ try:
 			GPIO.output(LED2, GPIO.LOW)
 finally:
 	GPIO.cleanup()
+	
 			
 				
 
